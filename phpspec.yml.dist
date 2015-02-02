@@ -1,0 +1,5 @@
+suites:
+  xmlrpc_suite:
+    namespace: Indigo\Xmlrpc
+    psr4_prefix: Indigo\Xmlrpc
+formatter.name: pretty
